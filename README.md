@@ -9,7 +9,7 @@
 + Must not merge code.
 ### Git & Working flow
 #Step 1: Clone Project
-> git clone [https://github.com/cristthien/processtracker.git](https://github.com/cristthien/Process-Tracker.git)
+> git clone [https://github.com/cristthien/Process-Tracker.git]
 
 #Step 2: Check local Git branch & remote Git branch.
 
