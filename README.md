@@ -7,8 +7,6 @@
 + Fetch code before coding new feature.
 + Each feature create a brand new branch.
 + Must not merge code.
-+ Create pull request
-+ TEST CLMM
 ### Git & Working flow
 #Step 1: Clone Project
 > git clone https://github.com/cristthien/processtracker.git
