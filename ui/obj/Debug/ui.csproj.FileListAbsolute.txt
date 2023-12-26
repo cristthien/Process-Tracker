@@ -1,0 +1,42 @@
+C:\Users\thien\source\repos\trelloclone\ui\bin\Debug\ui.dll
+C:\Users\thien\source\repos\trelloclone\ui\bin\Debug\ui.pdb
+C:\Users\thien\source\repos\trelloclone\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\trelloclone\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\trelloclone\ui\obj\Debug\ui.dll
+C:\Users\thien\source\repos\trelloclone\ui\obj\Debug\ui.pdb
+C:\Users\Admin\Github\ui\bin\Debug\ui.dll
+C:\Users\Admin\Github\ui\bin\Debug\ui.pdb
+C:\Users\Admin\Github\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\Admin\Github\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Github\ui\obj\Debug\ui.dll
+C:\Users\Admin\Github\ui\obj\Debug\ui.pdb
+C:\Users\Dell\Source\Repos\trelloclone\ui\bin\Debug\ui.dll
+C:\Users\Dell\Source\Repos\trelloclone\ui\bin\Debug\ui.pdb
+C:\Users\Dell\Source\Repos\trelloclone\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\trelloclone\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\trelloclone\ui\obj\Debug\ui.dll
+C:\Users\Dell\Source\Repos\trelloclone\ui\obj\Debug\ui.pdb
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\Trello\ui\bin\Debug\ui.dll
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\Trello\ui\bin\Debug\ui.pdb
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\Trello\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\Trello\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\Trello\ui\obj\Debug\ui.dll
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\Trello\ui\obj\Debug\ui.pdb
+C:\Users\Dell\source\repos\ProcessTracker\ui\bin\Debug\ui.dll
+C:\Users\Dell\source\repos\ProcessTracker\ui\bin\Debug\ui.pdb
+C:\Users\Dell\source\repos\ProcessTracker\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ProcessTracker\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProcessTracker\ui\obj\Debug\ui.dll
+C:\Users\Dell\source\repos\ProcessTracker\ui\obj\Debug\ui.pdb
+C:\Users\Dell\Desktop\ProcessTracker\ui\bin\Debug\ui.dll
+C:\Users\Dell\Desktop\ProcessTracker\ui\bin\Debug\ui.pdb
+C:\Users\Dell\Desktop\ProcessTracker\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ProcessTracker\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProcessTracker\ui\obj\Debug\ui.dll
+C:\Users\Dell\Desktop\ProcessTracker\ui\obj\Debug\ui.pdb
+C:\Users\Dell\Documents\ProcessTracker\ui\bin\Debug\ui.dll
+C:\Users\Dell\Documents\ProcessTracker\ui\bin\Debug\ui.pdb
+C:\Users\Dell\Documents\ProcessTracker\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\ProcessTracker\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\ProcessTracker\ui\obj\Debug\ui.dll
+C:\Users\Dell\Documents\ProcessTracker\ui\obj\Debug\ui.pdb

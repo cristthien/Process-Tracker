@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\OneDrive\Desktop\năm 3\Software engineer\trello\BLL\obj\Debug\BLL.pdb
+C:\Users\Dell\Documents\ProcessTracker\BLL\bin\Debug\BLL.dll
+C:\Users\Dell\Documents\ProcessTracker\BLL\bin\Debug\BLL.pdb
+C:\Users\Dell\Documents\ProcessTracker\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\ProcessTracker\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\ProcessTracker\BLL\obj\Debug\BLL.dll
+C:\Users\Dell\Documents\ProcessTracker\BLL\obj\Debug\BLL.pdb

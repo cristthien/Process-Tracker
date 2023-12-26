@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "918b4e2f-71be-470a-890e-a4bdcfc9392d": {
+      "ProjectGuid": "918b4e2f-71be-470a-890e-a4bdcfc9392d",
+      "DisplayName": "trelloclone",
+      "ColorIndex": 0
+    },
+    "53f142d9-8515-4f6d-be0c-bba42bf12e19": {
+      "ProjectGuid": "53f142d9-8515-4f6d-be0c-bba42bf12e19",
+      "DisplayName": "ui",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
